@@ -1,0 +1,53 @@
+{
+	"folders": [
+		{
+			"path": "route_demo"
+		},
+		{
+			"path": "cardwidget"
+		},
+		{
+			"path": "columlayout"
+		},
+		{
+			"path": "container"
+		},
+		{
+			"path": "dynamiclistview"
+		},
+		{
+			"path": "first_app"
+		},
+		{
+			"path": "gridview"
+		},
+		{
+			"path": "guide2"
+		},
+		{
+			"path": "guide3"
+		},
+		{
+			"path": "image"
+		},
+		{
+			"path": "listview"
+		},
+		{
+			"path": "listview2"
+		},
+		{
+			"path": "rowwidget"
+		},
+		{
+			"path": "stackwidget"
+		},
+		{
+			"path": "text"
+		},
+		{
+			"path": "guide"
+		}
+	],
+	"settings": {}
+}
